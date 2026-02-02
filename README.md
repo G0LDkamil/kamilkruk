@@ -1,4 +1,4 @@
-**[:bell:kamilkruk.com](https://kamilkruk.com/)**
+**[:bell:kamilkruk.com](https://kamilkruk.com/){:target="_blank"}**
 
 Strona do opisu na **Social Media**. Pomysł wzorowany na **Razer**, zdjęcia z postów, krótki opis i link *more*. :frog: :frog: :frog:
 
