@@ -1,1 +1,8 @@
 @import "tailwindcss";
+
+@theme{
+    --color-kruk-100: #222831;
+    --color-kruk-300: #393E46;
+    --color-kruk-500: #948979;
+    --color-kruk-700: #DFD0B8;
+}
